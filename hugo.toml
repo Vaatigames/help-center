@@ -3,7 +3,7 @@ languageCode = 'fr-fr'
 title = "Centre d'aide Vaatigames"
 
 [module]
-    replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
+    # replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
     [[module.imports]]
         path = "github.com/colinwilson/lotusdocs"
         disable = false
