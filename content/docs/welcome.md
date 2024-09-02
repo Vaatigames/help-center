@@ -1,6 +1,6 @@
 ---
-weight: 999
-title: "Example Page"
+weight: 1
+title: "Bienvenu !"
 description: ""
 icon: "article"
 date: "2024-08-30T09:30:12+02:00"
