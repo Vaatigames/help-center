@@ -30,7 +30,7 @@ jobs:
     name: ⚙️ Compilation
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.118.2
+      HUGO_VERSION: 0.133.1
     steps:
     - name: 📦 Installation de Hugo
       run: |
