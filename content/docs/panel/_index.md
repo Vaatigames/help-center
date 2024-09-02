@@ -2,5 +2,5 @@
 weight: 100
 title: "Panel Jeux"
 description: ""
-icon: "game"
+icon: "stadia_controller"
 ---
