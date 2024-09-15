@@ -1,6 +1,6 @@
 ---
 weight: 205
-title: "Installation de Modpack"
+title: "Installation de Plugins"
 description: ""
 icon: "upload_file"
 ---
