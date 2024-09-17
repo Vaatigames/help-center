@@ -2,6 +2,6 @@
 weight: 900
 title: "Légal"
 description: ""
-icon: "extension"
+icon: "history_edu"
 ---
 
