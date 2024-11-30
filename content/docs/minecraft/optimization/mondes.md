@@ -1,7 +1,7 @@
 ---
-weight: 651
+weight: 655
 title: "Désactiver l'end/le nether"
 description: ""
-icon: "cube"
+icon: "smb-share"
 ---
 
