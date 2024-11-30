@@ -20,4 +20,4 @@ Utilisez l'onglet "Joueur" dans les options de votre panel
 ![](https://aide.vaatigames.ovh/captures/bans.png)
 
 ## Joueurs en ligne
-![](https://aide.vaatigames.ovh/captures/joueurs.png)
+![](https://aide.vaatigames.ovh/captures/bans.png)
