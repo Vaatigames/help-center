@@ -1,5 +1,5 @@
 ---
-weight: 205
+weight: 254
 title: "Installation de Plugins"
 description: ""
 icon: "upload_file"
