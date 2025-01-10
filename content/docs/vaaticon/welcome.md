@@ -1,5 +1,6 @@
 ---
 title: ❓ Introduction
-description: Here is why you should use Vaaticon
+description: What is Vaaticon?
+icon: waving_hand
 weight: 101
 ---

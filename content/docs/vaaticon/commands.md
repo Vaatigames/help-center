@@ -1,9 +1,9 @@
 ---
 title: 📦 Commands
+description: List of all avaibles commandes with coresponding permissions in Vaaticon
+icon: keyboard_command_key
 weight: 120
 ---
-
-List of all avaibles commandes in Vaaticon
 
 ### /server <server-name>
 🔑 Permission : `vaaticon.server.<server-name>`

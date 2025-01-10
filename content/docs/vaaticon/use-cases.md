@@ -1,6 +1,7 @@
 ---
 title: ❓ Why Vaaticon?
 description: Here is why you should use Vaaticon
+icon: verified
 weight: 110
 ---
 
