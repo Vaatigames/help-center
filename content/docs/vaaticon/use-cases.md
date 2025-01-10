@@ -1,6 +1,7 @@
 ---
 title: ❓ Why Vaaticon?
-description: Here is why you should use Vaaticon 
+description: Here is why you should use Vaaticon
+weight: 110
 ---
 
 # ✅ You Should Use Vaaticon If...
