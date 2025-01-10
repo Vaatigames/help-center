@@ -1,11 +1,11 @@
-baseURL = 'https://aide.vaatigames.ovh/'
-languageCode = 'fr-fr'
-title = "Centre d'aide Vaatigames"
+baseURL = 'https://docs.vaatigames.ovh/'
+languageCode = 'en-en'
+title = "Vaatigames Documentation"
 
 [module]
-    # replacements = "github.com/colinwilson/lotusdocs -> lotusdocs"
+    # replacements = "github.com/DreamCloud-Development/mokadocs -> mokadocs"
     [[module.imports]]
-        path = "lotusdocs"
+        path = "mokadocs"
         disable = false
     [[module.imports]]
         path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
@@ -48,7 +48,7 @@ title = "Centre d'aide Vaatigames"
         rss = true                    # show rss icon with link
 
     [params.docs] # Parameters for the /docs 'template'
-        title           = "Vaatigames Help Center"           # default html title for documentation pages/sections
+        title           = "Vaatigames Documentation"           # default html title for documentation pages/sections
 
         pathName        = ""                            # path name for documentation site | default "docs"
 
