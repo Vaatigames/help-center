@@ -1,0 +1,6 @@
+[submodule "theme/mokadocs"]
+	path = theme/mokadocs
+	url = https://github.com/DreamCloud-Development/mokadocs
+[submodule "themes/mokadocs"]
+	path = themes/mokadocs
+	url = https://github.com/DreamCloud-Development/mokadocs
